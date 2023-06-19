@@ -11,9 +11,9 @@
   
 </a>
 
-Hi, My name is **Ravikant Rathor**. I am:
+Hi, My name is **Ravikant Rathor**.
 
-- 🇮🇳 He/Him from India
+-  I'm form India🇮🇳.
 - 💻 A passionate guy from India with some knowledge of Programming & Android Development
 
 ## ⚡ Technologies
