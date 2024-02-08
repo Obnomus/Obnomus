@@ -1,5 +1,5 @@
 
-<h1 align=center><b>Yo 👋<br>I'm Obnomus.
+<h1 align=center><b>Hi 👋<br>I'm Obnomus.
 
 &nbsp;<a href="https://telegram.me/Obnomus"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 &nbsp;<a href="https://github.com/Obnomus"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -11,10 +11,7 @@
   
 </a>
 
-Hi, My name is **Ravikant Rathor**.
-
--  I'm form India🇮🇳.
-- 💻 A passionate guy from India with some knowledge of Programming & Android Development
+- 💻 A passionate guy with some knowledge of Programming & Linux.
 
 ## ⚡ Technologies
 Here is a list of technologies that i have experience with:
